@@ -1,8 +1,4 @@
-def hi(hi = "HELLO")
-  "#{hi}"
-end
-
-speak_to_grandma = hi
+speak_to_grandma = "I LOVE YOU GRANDMA!"
 
 if speak_to_grandma == "hi".upcase
     puts "NO, NOT SINCE 1938"
